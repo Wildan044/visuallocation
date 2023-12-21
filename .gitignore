@@ -1,0 +1,8 @@
+/venv/
+/.env
+/model.h5
+/.flaskenv
+/vloc-project.json
+/resources/__pycache__
+/__pycache__
+/vlock-api.zip
